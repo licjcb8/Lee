@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/UnityChan/Scenes/ARPoseTest.unity
+  isLoaded: 1
+  isActive: 1
