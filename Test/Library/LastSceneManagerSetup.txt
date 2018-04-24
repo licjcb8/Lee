@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UnityChan/Scenes/TestAnimator.unity
+- path: Assets/Basic/Basic.unity
   isLoaded: 1
   isActive: 1
