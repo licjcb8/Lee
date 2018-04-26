@@ -10,7 +10,7 @@ public class ButtonTest : MonoBehaviour {
     Button m_cButton;
 	// Use this for initialization
 	void Start () {
-        m_cButton = this.GetComponent<Button>();
+        m_cButton = this.gameObject.GetComponent<Button>();
 	}
 	
 	// Update is called once per frame
